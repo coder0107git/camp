@@ -46,7 +46,7 @@ Once the dependencies are installed on your pi, you can clone this repository an
 run the server.
 
 ```
-git clone https://github.com/patrickfuller/camp.git
+git clone https://github.com/coder0107git/camp.git
 python camp/server.py
 ```
 
