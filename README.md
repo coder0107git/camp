@@ -10,7 +10,7 @@ What it does
 
 Hosts a website where you can view your webcam in real time.
 
-Why I wrote it
+Why it was made
 ==============
 
 There are a *lot* of tutorials out there on how to turn your pi into a webcam
